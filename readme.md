@@ -20,7 +20,7 @@ Beyond this Go and Gin implementation, my overarching objective is to create a m
 
 To install the project, make sure you have Go installed, then clone the repository:
 
-https://github.com/online.eric/ginWebServer.git
+https://github.com/onlineeric/ginWebServer.git
 
 cd into ginWebServer, and run the project with:
 
